@@ -116,5 +116,3 @@ Once the model is trained, you can generate text based on a prompt by running th
 This project demonstrates the essential components of transformer-based architectures and provides a solid foundation for building more advanced models like LLaMA 3. Whether for educational purposes or as a starting point for more complex applications, this project offers valuable insights into modern language modeling techniques.
 
 --- 
-
-Feel free to use this structure as a starting point for your own experimentation with transformers and large language models!
